@@ -1,2 +1,2 @@
-# ericvo22.github.io
+ericvo22.github.io
 hello
